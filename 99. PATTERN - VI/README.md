@@ -5,7 +5,11 @@ Sample Input 1:
 Sample output 1:
 
 AAAAA
+ 
  AAAA
+  
   AAA
+   
    AA
+    
     A 
