@@ -6,35 +6,12 @@ Sample input 1:
 
 Sample output 1:
 
-*
+A
 
-**
+AA
 
-***
+AAA
 
-****
+AAAA
 
-***** 
-
-
-Sample input 2:
-
-8
-
-Sample output 2:
-
-*
-
-**
-
-***
-
-****
-
-*****
-
-******
-
-*******
-
-********
+AAAAA 
