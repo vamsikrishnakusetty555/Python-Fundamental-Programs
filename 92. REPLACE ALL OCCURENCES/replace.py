@@ -1,0 +1,6 @@
+string=input()
+char=input()
+replced_char=input()
+modified=string.replace(char,replced_char)
+print('''Modified string:''')
+print(modified)
