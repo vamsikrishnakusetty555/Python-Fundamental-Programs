@@ -7,9 +7,13 @@ Sample Input 1:
 Sample Output 1:
 
 AAAAA
+
 AAAAA
+
 AAAAA
+
 AAAAA
+
 AAAAA
 
 Sample Input 2:
@@ -19,9 +23,15 @@ Sample Input 2:
 Sample Output 2:
 
 AAAAAAA
+
 AAAAAAA
+
 AAAAAAA
+
 AAAAAAA
+
 AAAAAAA
+
 AAAAAAA
+
 AAAAAAA
