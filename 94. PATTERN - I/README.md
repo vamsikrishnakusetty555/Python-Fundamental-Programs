@@ -4,7 +4,7 @@ Sample Input 1:
 
 5
 
-Sample Output 1:
+Sample Output 1:  (nOTE: YOU CAN REPLACE 'A' WITH '*')
 
 AAAAA
 
