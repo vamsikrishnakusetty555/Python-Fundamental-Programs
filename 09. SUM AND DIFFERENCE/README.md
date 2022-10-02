@@ -13,13 +13,11 @@ First output will be the sum of two integers
 Second output will be the difference of two integers
 
 Sample Input:
-
 55
 
 34
 
 Sample Output:
-
 89
 
 21
