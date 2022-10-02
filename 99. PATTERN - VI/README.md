@@ -2,14 +2,14 @@ Write a Python program to print the given pattern from user-defined values(dynam
 
 Sample Input 1:
 5
-Sample output 1: (NOTE: YOU CAN REPLACE 'A' WITH '*')
+Sample output 1: (NOTE: '----' = SPACE)
 
 AAAAA
  
- AAAA
+-AAAA
   
-  AAA
+--AAA
    
-   AA
+---AA
     
-    A 
+----A 
