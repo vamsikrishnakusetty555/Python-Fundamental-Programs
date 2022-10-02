@@ -1,0 +1,9 @@
+number=int(input())
+start=6
+difference=5
+i=1
+while(i<=number):
+    print(start,end=" ")                
+    start=start+difference
+    difference=5*(i+1)
+    i+=1
