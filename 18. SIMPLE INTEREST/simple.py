@@ -1,0 +1,5 @@
+amount=int(input(""))
+time=int(input(""))
+rate_of_interest=float(input(""))
+formula=float((amount*time*rate_of_interest)/100)
+print("%.2f"%formula)
