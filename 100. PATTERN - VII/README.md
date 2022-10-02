@@ -8,11 +8,11 @@ Sample output 1:
 
 AAAAA
 
-A____A
+A-----A
 
-A____A
+A-----A
 
-A____A
+A-----A
 
 AAAAA
 
