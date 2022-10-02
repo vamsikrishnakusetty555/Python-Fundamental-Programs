@@ -1,4 +1,5 @@
 '''
+#METHOD 1:
 # Without Using Sorted()
 list_sorted=[]
 for i in range(len(list)):
