@@ -4,7 +4,7 @@ Sample input 1:
 
 5
 
-Sample output 1:
+Sample output 1: (NOTE: '-----' = 'SPACE')
 
 AAAAA
 
@@ -24,16 +24,16 @@ Sample output 2:
 
 AAAAAAAA
 
-A--------A
+A---------A
 
-A--------A
+A---------A
 
-A--------A
+A---------A
 
-A--------A
+A---------A
 
-A--------A
+A---------A
 
-A--------A
+A---------A
 
 AAAAAAAA
