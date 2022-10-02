@@ -4,8 +4,11 @@ Refer the table below for fee details.
 
 Student Type	- Student Type denoted as	- Fee Details
 1.Merit Seat Day Scholar -	MSDS	- Tuition fee + Bus fee
+
 2.Merit Seat Hosteller -	MSH	- Tuition fee + Hostel fee
+
 3.Management Seat Day Scholar -	MGSDS	- 150% of Tuition fee + Bus fee
+
 4.Management Seat Hosteller -  MGSH	 - 150% of Tuition fee + Hostel fee
 
 Input and Output Format:
