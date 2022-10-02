@@ -4,14 +4,14 @@ Sample input 1:
 
 5
 
-Sample output 1: (NOTE: YOU CAN REPLACE 'A' WITH '*')
+Sample output 1: (NOTE: '----' = SPACE)
 
-    A
-   
-   AA
-  
-  AAA
- 
- AAAA
+-----A
 
-AAAAA
+----AA
+
+---AAA
+
+--AAAA
+
+-AAAAA
