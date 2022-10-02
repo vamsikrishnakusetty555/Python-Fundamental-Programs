@@ -19,6 +19,6 @@ Enter the number of Months :
 
 12
 
-The amoeba size is 89 1
+The amoeba size is 89 
 
 
