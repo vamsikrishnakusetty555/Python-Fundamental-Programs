@@ -1,0 +1,9 @@
+number=int(input())
+start=121
+difference=104
+i=1
+while(i<=number):
+    print(start,end=" ")
+    start=start+difference
+    difference=difference+32
+    i+=1  
