@@ -24,16 +24,16 @@ Sample output 2:
 
 AAAAAAAA
 
-A         A
+A--------A
 
-A         A
+A--------A
 
-A         A
+A--------A
 
-A         A
+A--------A
 
-A         A
+A--------A
 
-A         A
+A--------A
 
 AAAAAAAA
