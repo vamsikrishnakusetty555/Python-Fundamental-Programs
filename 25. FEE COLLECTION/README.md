@@ -1,3 +1,4 @@
+PROGRAM:
 Write a program to determine the fee amount to be collected from a student. The input to the program are the type of the student, tuition fee, bus fee, hostel fee.
 
 Refer the table below for fee details.
