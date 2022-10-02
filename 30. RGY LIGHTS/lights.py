@@ -1,4 +1,3 @@
-#CODE:
 speed=float(input())
 distance=float(input())
 traffic_light_time=float(input())
