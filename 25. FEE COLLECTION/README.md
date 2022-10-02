@@ -3,6 +3,7 @@ Write a program to determine the fee amount to be collected from a student. The 
 Refer the table below for fee details.
 
 Student Type	- Student Type denoted as	- Fee Details
+
 1.Merit Seat Day Scholar -	MSDS	- Tuition fee + Bus fee
 
 2.Merit Seat Hosteller -	MSH	- Tuition fee + Hostel fee
