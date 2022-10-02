@@ -9,5 +9,6 @@ def bin(x):
         return bin(x//2)
 bin(number)
 list.reverse()
+
 for i in list:
     print(i,end="")
