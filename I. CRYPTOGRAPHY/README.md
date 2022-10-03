@@ -8,25 +8,39 @@ Output Format:
 The output consists of n lines of decoded messages with a new line. if n value is less than or equal to zero, print nothing.
 
 Constraints:
+
 1>=n>=50
 
 Sample Input 1:
+
 2
+
 hsggthbuwvf
+
 epdf
 
 Sample Output 1:
+
 codeshastra
+
 code
 
+
 Sample Input 2:
+
 3
+
 zov
+
 brf
+
 iaeflmgqx
+
 
 Sample Output 2:
 you
+
 are
+
 excellent
 
